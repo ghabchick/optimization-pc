@@ -1,6 +1,6 @@
 Download our PC optimization tool!
 
-We are excited to introduce our new tool for enhancing your computer's performance. This application will help you speed up your system, remove unnecessary files, and improve overall stability.
+We are excited to introduce our new tool for enhancing your computer's performance windows 10/windows 7. This application will help you speed up your system, remove unnecessary files, and improve overall stability.
 
 ▎Instructions for Downloading
 
